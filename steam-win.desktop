@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Steam
+Exec=env WINEPREFIX="/home/terroreek/.wine" /opt/wine-staging/bin/wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/terroreek/.wine/dosdevices/c:/users/Public/Desktop/Steam.lnk
+Type=Application
+StartupNotify=true
+Path=/home/terroreek/.wine/dosdevices/c:/Program Files (x86)/Steam
+#Icon=10B4_steam.0
+Icon=/home/terroreek/Documents/Themes/Icons/steam-wine.png
+StartupWMClass=steam.exe

@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=nautilus --no-desktop computer:
+Name=Computer
+Icon=/usr/share/icons/gnome-wine/scalable/devices/computer.svg

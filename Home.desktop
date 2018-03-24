@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=nautilus --no-desktop /home/terroreek
+Name=Home
+Icon=/usr/share/icons/gnome-wine/scalable/places/folder_home.svg
