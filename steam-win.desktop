@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Steam
-Exec=env WINEPREFIX="/home/terroreek/.wine" /opt/wine-staging/bin/wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/terroreek/.wine/dosdevices/c:/users/Public/Desktop/Steam.lnk
+Exec=env WINEPREFIX="/home/terroreek/.wine" /opt/wine-staging/bin/wine /home/terroreek/.wine/drive_c/Program\ Files\ \(x86\)/Steam/Steam.exe
 Type=Application
 StartupNotify=true
 Path=/home/terroreek/.wine/dosdevices/c:/Program Files (x86)/Steam
