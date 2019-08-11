@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Looking Glass
+Exec=/home/terroreek/Public/LookingGlass-B1-rc5/client/build/looking-glass-client -s -a
+Type=Application
+StartupNotify=true
+Icon=gnome-tracker
