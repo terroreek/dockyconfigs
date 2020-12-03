@@ -4,7 +4,7 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=nautilus --no-desktop /home/terroreek
+Exec=nautilus /home/terroreek
 Name=Home
 Icon=/home/terroreek/terror.eek@gmail.com/Personal/Linux/Icons/Arc-Red/places/128/folder_home.png
 Name[en_CA]=Home
